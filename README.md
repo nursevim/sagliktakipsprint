@@ -7,7 +7,7 @@ Takım Flutter 73
 ## Takım Elemanları
 - Nur Sevim Özler: Scrum Master / Product Owner 
 - Nuran Güler: Developer
-- Meriç Emre Erkoşun: Aktif Olmayan Üye
+- Meriç Emre Erkoşun: Developer
 - Mehmet Kağan Bayrak: Aktif Olmayan Üye
 - Muhammed Can Aytekin: Aktif Olmayan Üye
 
@@ -20,7 +20,7 @@ Takım Flutter 73
 [Flutter Team 73 Miro Backlog Board](https://trello.com/invite/b/mbcivEUa/ATTIc1b81371761acefa0ab19bd4d54d2dfe1B60A505/saglik-takip-uygulamasi-sprint-1)
 
 ## Ürün Açıklaması
-Sağlık Takip Uygulaması, sağlık profesyonelleri ve hastalar için günlük sağlık takiplerini kolaylaştıran bir mobil uygulamadır. Uygulama, kullanıcıların sağlık durumlarını kaydetmelerini, raporlar oluşturmasını ve gerektiğinde sağlık profesyonelleri ile iletişime geçmelerini sağlar.
+Sağlık Takip Uygulaması, sağlık profesyonelleri ve hastalar için günlük sağlık takiplerini kolaylaştıran bir uygulamadır. Uygulama, kullanıcıların sağlık durumlarını kaydetmelerini, raporlar oluşturmasını ve gerektiğinde sağlık profesyonelleri ile iletişime geçmelerini sağlar.
 
 
 
@@ -28,11 +28,11 @@ Sağlık Takip Uygulaması, sağlık profesyonelleri ve hastalar için günlük 
 
 ## Ürün Özellikleri
 
-- Kullanıcıların günlük aktivitelerini takip edebilme.
-- Beslenme alışkanlıklarını kaydedebilme.
-- Sağlık verilerini güvenli bir şekilde saklama.
-- Kullanıcılara sağlık hedefleri belirleme imkanı sunma.
-- Sağlık verilerini doktorlarla paylaşabilme.
+-  Kullanıcılar kendi sağlık bilgilerini girebilir ve düzenleyebilir.
+- Günlük sağlık durumlarını (kan basıncı, şeker seviyesi, kilo vb.) kaydedebilirler.
+- Belirli periyotlarda sağlık raporları oluşturabilirler.
+- Kullanıcılara ilaç alma zamanları, randevular ve önemli sağlık uyarıları için bildirimler gönderilir.
+- Kullanıcılar, sağlık profesyonelleri ile mesajlaşabilir veya video görüşmeler yapabilir.
 
 ## Hedef Kitle
 - Sağlık profesyonelleri.
@@ -75,7 +75,7 @@ Kullanıcı profili oluşturma ve sağlık bilgilerini girme ekranları.
 
 
 - **Sprint Retrospective:**
-  - Genel anlamda iyi hedeflere ulaşılınıyor. Chrome ve edge üzerinden uygulama açılıyor fakat windows üzerinden proeblem yaşanıyor. 
+  - Genel anlamda iyi hedeflere ulaşılınıyor. Chrome ve edge üzerinden uygulama açılıyor fakat windows üzerinden problem yaşanıyor. Kişileri daha aktif olmaya teşvik edilip daha iyi sonuçlar elde etmeye çalışacağız.
 
 
 ---
