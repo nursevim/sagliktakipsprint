@@ -62,14 +62,13 @@ Kullanıcı profili oluşturma ve sağlık bilgilerini girme ekranları.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ve slack üzerinden yapılmasına karar verilmiştir.
 
-![discord toplanti screenshot](https://sites.google.com/view/discordtoplanti/ana-sayfa)
-
+![discord toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/discordtoplantı.PNG)
 - **Sprint board update**: Sprint board screenshotları: 
-![sağlık takip uygulaması sprint1](https://sites.google.com/view/salk-takip-uygulamas-sprint-1/ana-sayfa)
-
+![sağlık takip uygulaması sprint1](https://github.com/nursevim/sagliktakipsprint/blob/main/image/sa%C4%9Fl%C4%B1ktakipuygulamas%C4%B1sprint1.png?raw=true)
 
 - **Ürün Durumu**: Ekran görüntüleri:!
-[profil ve sağlık bilgileri ekranı screenshot](https://sites.google.com/view/profil-bilgileri-saglikbilgi/ana-sayfa)
+- ![profil bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/profil%20bilgileri.PNG)
+![sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/sa%C4%9Fl%C4%B1k%20bilgileri.PNG?raw=true)
 
 - **Sprint Review**: Kullanıcı profili ve sağlık bilgileri özelliklerinin gösterimi.
 
@@ -84,4 +83,3 @@ Kullanıcı profili oluşturma ve sağlık bilgilerini girme ekranları.
 
 
 ---
-
