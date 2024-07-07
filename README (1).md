@@ -68,7 +68,7 @@ Kullanıcı profili oluşturma ve sağlık bilgilerini girme ekranları.
 
 - **Ürün Durumu**: Ekran görüntüleri:!
 - ![profil bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/profil%20bilgileri.PNG)
-![sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/sağlıktakipuygulamasısprint1.png)
+![sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/image/sa%C4%9Fl%C4%B1k%20bilgileri.PNG?raw=true)
 
 - **Sprint Review**: Kullanıcı profili ve sağlık bilgileri özelliklerinin gösterimi.
 
