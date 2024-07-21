@@ -105,15 +105,19 @@ Sağlık takibi ve raporlama ekranları.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
-![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp1.PNG)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp2.PNG)
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp1.PNG)
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp2.PNG)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![sağlık takip uygulaması sprint1](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/sprint2%20trello.PNG)
 
 
 - **Ürün Durumu**: Sağlık takibi ve raporlama ekran görüntüleri.
-![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53%20(1).jpeg?raw=true)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53.jpeg)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.54.jpeg)
-(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19%20(1).jpeg)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19.jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53%20(1).jpeg?raw=true)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53.jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.54.jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19%20(1).jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19.jpeg)
 
 - **Sprint Review**: Sağlık takibi ve raporlama özelliklerinin gösterimi.
 
