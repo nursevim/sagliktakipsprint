@@ -84,7 +84,13 @@ Kullanıcı profili oluşturma ve sağlık bilgilerini girme ekranları.
 
 
 ---
+
+
 ---
+## Product Backlog URL
+
+[Flutter Team 73 Miro Backlog Board](https://trello.com/invite/b/669c98b14f335fa0d80a8d9e/ATTI0c9d4024bece8469b02ade28845c5c7f46FE8760/saglik-takip-uygulamasi-sprint-2)
+
 
 # Sprint 2
 - **Sprint Notları**:
@@ -99,14 +105,15 @@ Sağlık takibi ve raporlama ekranları.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 
-![whatsapp toplanti screenshot](https://sites.google.com/view/discordtoplanti/ana-sayfa)
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp1.PNG)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp2.PNG)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![sağlık takip uygulaması sprint1](https://sites.google.com/view/salk-takip-uygulamas-sprint-1/ana-sayfa)
+![sağlık takip uygulaması sprint1](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/sprint2%20trello.PNG)
 
 
 - **Ürün Durumu**: Sağlık takibi ve raporlama ekran görüntüleri.
-![profil ve sağlık bilgileri ekranı screenshot](https://sites.google.com/view/profil-bilgileri-saglikbilgi/ana-sayfa)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53%20(1).jpeg?raw=true)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.53.jpeg)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.25.54.jpeg)
+(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19%20(1).jpeg)(https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/WhatsApp%20Image%202024-07-21%20at%2019.31.19.jpeg)
 
 - **Sprint Review**: Sağlık takibi ve raporlama özelliklerinin gösterimi.
 
