@@ -152,7 +152,7 @@ Firebase ile login/register sayfası ve Uzman tavsiyeleri sayfası
 ![sağlık takip uygulaması sprint3](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/trello%20sprint3.PNG)
 
 
-- **Ürün Durumu**: Sağlık takibi ve raporlama ekran görüntüleri.
+- **Ürün Durumu**: Firebase ile login/register sayfası ve Uzman tavsiyeleri sayfası ekran görüntüleri.
 ![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.41.jpeg)
 ![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.42%20(1).jpeg)
 ![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.42%20(2).jpeg)
