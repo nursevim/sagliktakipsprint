@@ -109,7 +109,7 @@ Sağlık takibi ve raporlama ekranları.
 ![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/wp2.PNG)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![sağlık takip uygulaması sprint1](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/sprint2%20trello.PNG)
+![sağlık takip uygulaması sprint2](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint2/sprint2%20trello.PNG)
 
 
 - **Ürün Durumu**: Sağlık takibi ve raporlama ekran görüntüleri.
@@ -124,7 +124,46 @@ Sağlık takibi ve raporlama ekranları.
 
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-  Kod kısmındaki problemler halledilmiştir. 
+  Kod kısmındaki problemler halledilmiştir.
+
+
+
+[Flutter Team 73 Miro Backlog Board](https://trello.com/invite/b/66ad1f75d8fec18fb4f158b9/ATTI067dbfe54e1dba452db36dac685aa4ab15E97537/saglik-takip-uygulamasi-sprint-3)
+
+
+# Sprint 3
+- **Sprint Notları**:
+Firebase ile login/register sayfası ve Uzman tavsiyeleri sayfası
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
+  - 15 puan.
+
+- **Puan tamamlama mantığı**: 
+- Firebase ile login/register sayfası ve Uzman tavsiyeleri sayfası için 10 puan, ekran tasarımı ve geliştirme için 5 puan.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/sp3,1.PNG?raw=true)
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/sp3,2.PNG?raw=true)
+![whatsapp toplanti screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/sp3.0.PNG?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![sağlık takip uygulaması sprint3](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/trello%20sprint3.PNG)
+
+
+- **Ürün Durumu**: Sağlık takibi ve raporlama ekran görüntüleri.
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.41.jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.42%20(1).jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.42%20(2).jpeg)
+![profil ve sağlık bilgileri ekranı screenshot](https://github.com/nursevim/sagliktakipsprint/blob/main/sprint3%20image/WhatsApp%20Image%202024-08-02%20at%2023.55.42.jpeg)
+
+
+- **Sprint Review**: Firebase ile login/register sayfası ve Uzman tavsiyeleri sayfası gösterimi.
+
+
+- **Sprint Retrospective:**
+  - Takım üyeleri birbirlerini tebrik etmişlerdir.
 
 
 ---
