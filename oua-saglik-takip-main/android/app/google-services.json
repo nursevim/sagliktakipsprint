@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097830413889",
+    "project_id": "saglik-takip-register",
+    "storage_bucket": "saglik-takip-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097830413889:android:3db2fb2b22086b52c4f8c0",
+        "android_client_info": {
+          "package_name": "com.example.saglik_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Vua692rQcbyLs0jene9_BEy7uAD4KTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
